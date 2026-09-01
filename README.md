@@ -8,11 +8,13 @@ Building security tools, threat detection systems, and automation platforms. Bas
 
 ## 🎯 What I Do
 
-### Cybersecurity
-- **Penetration Testing** — Web application security, network reconnaissance, vulnerability assessment
-- **Incident Response** — SOC alert triage, threat analysis, attack pattern correlation
+### Cybersecurity (15 Production Projects)
+- **Network Security** — IDS, DNS reconnaissance, port scanning, network enumeration
+- **Application Security** — Web vulnerability scanning, phishing detection, incident response
+- **Penetration Testing** — Web apps, command injection, SQL injection, XSS testing
+- **Machine Learning** — Anomaly detection, email classification, threat modeling
 - **Cryptography** — AES-256, RSA hybrid encryption, secure key management
-- **Network Security** — Port scanning, service enumeration, MITRE ATT&CK mapping
+- **Enterprise Security** — Compliance auditing (GDPR, HIPAA, PCI-DSS, ISO27001)
 
 ### Full-Stack Development
 - **Backend:** FastAPI, Flask, Node.js, Python
@@ -20,41 +22,65 @@ Building security tools, threat detection systems, and automation platforms. Bas
 - **Databases:** SQLite, PostgreSQL
 - **Automation:** Multi-agent systems, content pipelines, API integrations
 
-### Machine Learning
-- **Classification:** Phishing email detection with scikit-learn
-- **Feature Engineering:** Email analysis, URL patterns, NLP signals
-- **Model Evaluation:** Cross-validation, precision/recall optimization
+### Machine Learning & Data Science
+- **Classification:** Phishing detection, intrusion detection with scikit-learn
+- **Feature Engineering:** Email analysis, network traffic patterns, NLP signals
+- **Model Evaluation:** Cross-validation, ROC-AUC, precision/recall optimization
 
 ---
 
-## 📚 Featured Projects
+## 📚 Featured Projects (15 Total)
 
-### Cybersecurity Portfolio
-**11 professional-grade security projects** — Portfolio site: https://korir555.github.io/cybersecurity-portfolio
+### 🏆 Enterprise-Grade Security Tools (NEW - Projects 12-15)
 
-**Penetration Testing (6 projects)**
-- Lab environment setup and configuration
-- White-box and black-box vulnerability testing
-- SQL injection, XSS, command injection exploitation
-- Web application security assessments
+**[#12] ML-Based Intrusion Detection System** 
+- Random Forest + Gradient Boosting classifiers for network anomaly detection
+- 95%+ accuracy, ROC-AUC 0.97+
+- Real-time alert system with severity scoring
+- [GitHub](https://github.com/Korir555/ids-detector)
 
-**Incident Response & Threat Detection (3 projects)**
-- 🎯 **SOC Incident Response Simulator** — React + Node.js with 30+ MITRE ATT&CK scenarios, scoring engine, leaderboard
-- 🎯 **Phishing Detection Model** — scikit-learn classifier with 94% precision, feature importance analysis
-- 🎯 **Network Enumeration Lab** — Kali Linux reconnaissance against Metasploitable2
+**[#13] Web Application Security Scanner**
+- OWASP Top 10 vulnerability detection
+- SQL injection, XSS, CSRF, security header analysis
+- CVSS scoring + remediation recommendations
+- [GitHub](https://github.com/Korir555/webapp-scanner)
 
-**Security Tooling (2 projects)**
-- 🎯 **Professional Port Scanner** — Flask + React with parallel TCP scanning, service detection, CVE correlation
-- 🎯 **Hybrid File Encryption** — AES-256-GCM + RSA cryptography, HMAC integrity, key management UI
+**[#14] DNS & Certificate Intelligence Tool**
+- DNS enumeration, subdomain discovery, SSL/TLS certificate analysis
+- Certificate chain validation, DNSSEC verification
+- Threat intelligence mapping
+- [GitHub](https://github.com/Korir555/dns-intel)
 
-### Key Repositories
+**[#15] Security Audit & Threat Intelligence Dashboard**
+- Multi-framework compliance (GDPR, HIPAA, PCI-DSS, ISO27001)
+- Compliance gap analysis, risk scoring, executive reporting
+- Remediation prioritization engine
+- [GitHub](https://github.com/Korir555/sec-dashboard)
 
-| Project | Stack | Link |
-|---------|-------|------|
-| **Port Scanner** | Flask, React, Socket Programming | [Repo](https://github.com/Korir555/port-scanner) |
-| **File Encryption** | Flask, React, Cryptography | [Repo](https://github.com/Korir555/file-encryption) |
-| **Cybersecurity Portfolio** | HTML, CSS, GitHub Pages | [Repo](https://github.com/Korir555/cybersecurity-portfolio) |
-| **Phishing Model** | scikit-learn, pandas | [Portfolio](https://korir555.github.io/cybersecurity-portfolio/projects/08-phishing-detection-model/) |
+### 🎯 Core Security Projects (Projects 7-11)
+
+**[#07] SOC Incident Response Simulator** — React + Node.js with 30+ MITRE ATT&CK scenarios  
+**[#08] Phishing Detection Model** — scikit-learn classifier, 94% precision  
+**[#09] Network Enumeration Lab** — Kali Linux reconnaissance against Metasploitable2  
+**[#10] Professional Port Scanner** — Flask + React with CVE correlation  
+**[#11] Hybrid File Encryption Tool** — AES-256-GCM + RSA cryptography  
+
+### 🧪 Penetration Testing Fundamentals (Projects 1-6)
+
+**[#01-06] Web Security Labs** — Command injection, SQL injection, XSS, black-box testing, WordPress exploitation, DVWA assessment
+
+---
+
+## 📊 Portfolio Statistics
+
+| Metric | Value |
+|--------|-------|
+| **Total Projects** | 15 |
+| **Lines of Code** | 15,000+ |
+| **GitHub Repos** | 15 active |
+| **Tech Stack** | 12+ technologies |
+| **Categories** | Network, Application, ML, Enterprise Security |
+| **Portfolio Site** | https://korir555.github.io/cybersecurity-portfolio |
 
 ---
 
@@ -64,21 +90,15 @@ Building security tools, threat detection systems, and automation platforms. Bas
 
 **Backend:** FastAPI · Flask · Node.js · Express
 
-**Frontend:** React · Vanilla JS · CSS Grid/Flexbox
+**Frontend:** React · Vanilla JS · CSS Grid/Flexbox · Dark Theme Design
 
 **Security:** Cryptography · OWASP · MITRE ATT&CK · Penetration Testing
 
-**ML/Data:** scikit-learn · pandas · feature engineering
+**ML/Data:** scikit-learn · pandas · feature engineering · Random Forest · Gradient Boosting
 
-**Tools:** Git · Docker · Kali Linux · Nmap · Burp Suite · Metasploit
+**Tools:** Git · Docker · Kali Linux · Nmap · Burp Suite · Metasploit · dnspython
 
-**Databases:** SQLite · PostgreSQL · SQL injection testing
-
----
-
-## 📊 GitHub Stats
-
-![Korir555's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Korir555&show_icons=true&theme=dark&bg_color=0a0e27&title_color=00ff88&text_color=00ff88)
+**Databases:** SQLite · PostgreSQL
 
 ---
 
@@ -93,55 +113,44 @@ Building security tools, threat detection systems, and automation platforms. Bas
 
 ## 💼 Experience
 
+**Freelance Security & ML Engineer** (2024 - Present)
+- Built 15 production-grade cybersecurity projects
+- ML model training and evaluation (scikit-learn, feature importance)
+- Full-stack security applications (Flask + React)
+- Enterprise compliance auditing (GDPR, HIPAA, PCI-DSS, ISO27001)
+
 **Freelance AI/ML Evaluation** (Outlier AI)
-- Evaluated large language models and AI systems
-- Quality assurance on ML model outputs
+- Evaluated LLM outputs and AI system quality assurance
 - Prompt engineering and edge case analysis
 
-**Security Portfolio Development**
-- Built professional-grade security tools used in real-world scenarios
-- 11 production-quality cybersecurity projects
-- End-to-end project ownership from design to deployment
+---
+
+## ⭐ Highlights
+
+✅ **15-Project Portfolio** — Complete security toolkit spanning network, app, ML, and enterprise security  
+✅ **Enterprise Compliance** — Audit engines for GDPR, HIPAA, PCI-DSS, ISO27001  
+✅ **ML Expertise** — Intrusion detection with 95%+ accuracy, phishing classification  
+✅ **Production Quality** — All projects have documentation, tests, and GitHub deployment  
+✅ **Full-Stack Capability** — Backend APIs, frontend UI, databases, real-time dashboards  
+✅ **Cryptography** — AES-256, RSA, HMAC, secure key management  
 
 ---
 
-## 📈 What I'm Working On
+## 📈 GitHub Activity
 
-- 🔐 **Cryptography & secure tooling** — Building encryption, key management, and secure communication tools
-- 🎯 **Incident response automation** — Training tools for SOC analysts
-- 🔍 **Threat detection** — ML models for phishing, malware, anomalies
-- 🤖 **Multi-agent systems** — Automation pipelines for content, reconnaissance, analysis
-
----
-
-## 🌟 Highlights
-
-✅ **Portfolio-first mindset** — Every project is production-quality with documentation, testing, and deployment  
-✅ **Security-focused** — Deep understanding of cryptography, secure coding, threat modeling  
-✅ **Full-stack capability** — Backend APIs, frontend UI, databases, deployment  
-✅ **Automation expert** — Built multi-agent systems, content pipelines, tool integrations  
-✅ **Open-source mindset** — Clean code, comprehensive READMEs, best practices  
+![Korir555's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Korir555&show_icons=true&theme=dark&bg_color=0a0e27&title_color=00ff88&text_color=00ff88)
 
 ---
 
 ## 📫 Get In Touch
 
 - 🔗 **Portfolio:** https://korir555.github.io/cybersecurity-portfolio
-- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/korir555)
+- 💼 **LinkedIn:** https://linkedin.com/in/emmanuel-korir-a98b32229/
 - 📧 **Email:** ekorir555@gmail.com
 - 🐙 **GitHub:** [@Korir555](https://github.com/Korir555)
 
-**Open to:** Freelance security projects · Full-time cybersecurity/ML roles · Contract work · Collaboration
+**Open to:** Freelance security projects · Full-time cybersecurity roles · Contract work · Collaboration
 
 ---
 
-## 💡 Fun Facts
-
-- 🎵 K-pop enthusiast (MAMAMOO, anime, Asian entertainment)
-- 🏗️ Enjoys building complete systems end-to-end
-- 🔒 Passionate about making security accessible
-- 🌍 Based in Nairobi, Kenya
-
----
-
-**Thanks for visiting! Check out my [portfolio](https://korir555.github.io/cybersecurity-portfolio) for detailed project breakdowns and case studies.**
+**15 production-grade security projects. 1000+ lines each. Ready to ship.** 🚀
